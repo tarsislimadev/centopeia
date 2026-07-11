@@ -1,0 +1,20 @@
+{
+  "name": "centopeia",
+  "version": "0.1.0",
+  "description": "workflow automation platform",
+  "main": "index.js",
+  "bin": {
+    "centopeia": "./bin/centopeia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/centopeia.git"
+  },
+  "keywords": ["workflow", "automation", "platform"],
+  "author": "Tarsis Lima (https://github.com/tarsislimadev)",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/centopeia/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/centopeia#readme"
+}
