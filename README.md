@@ -1,1 +1,3 @@
-# centopeia
+# [centopeia](#)
+
+centopeia is a workflow automation platform. centopeia lets users build automations by wiring together applications, services and AI models in a visual, node-based editor, with the option to use custom JavaScript.
